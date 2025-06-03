@@ -48,22 +48,17 @@ This project simulates a real-world software development pipeline, showcasing ho
 ## 📦 How to Run This Project
 
 **Step 1: Clone the repository**
-
+```bash
 git clone https://github.com/VodnalaNaveen/cicd.git
 cd cicd
-
+bash```
 
  Step 2: Install the dependencies
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 🔹 Step 3: Run the pipeline from the command line
 
-bash
-Copy
-Edit
+
 python main_version2.py --image_path="sample.jpg" --model_path="yolov8n.pt"
 
 ## 🧠 What You’ll Learn
