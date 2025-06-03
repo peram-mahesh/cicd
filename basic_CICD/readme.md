@@ -56,6 +56,7 @@ cd cicd
  **Step 2: Install the dependencies**
 
 pip install -r requirements.txt
+
 **Step 3: Run the pipeline from the command line**
 
 
