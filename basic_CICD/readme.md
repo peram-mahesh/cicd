@@ -63,7 +63,7 @@ python main_version2.py --image_path="sample.jpg" --model_path="yolov8n.pt"
 
 🧠 Data & ML engineers integrating YOLOv8 into production pipelines
 
-📁 Folder Structure
+## 📁 Folder Structure
 bash
 Copy
 Edit
@@ -74,3 +74,4 @@ cicd/
 ├── sample.jpg          # Sample input image
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project overview
+
