@@ -49,7 +49,7 @@ This project simulates a real-world software development pipeline, showcasing ho
 
 **Step 1: Clone the repository**
 
-git clone https://github.com/peram-mahesh/cicd.git
+git clone https://github.com/peram-mahesh/cicd/tree/main/basic_CICD.git
 cd cicd
 
 
