@@ -53,10 +53,10 @@ git clone https://github.com/VodnalaNaveen/cicd.git
 cd cicd
 
 
- Step 2: Install the dependencies
+ **Step 2: Install the dependencies**
 
 pip install -r requirements.txt
-🔹 Step 3: Run the pipeline from the command line
+**Step 3: Run the pipeline from the command line**
 
 
 python main_version2.py --image_path="sample.jpg" --model_path="yolov8n.pt"
