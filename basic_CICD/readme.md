@@ -48,10 +48,10 @@ This project simulates a real-world software development pipeline, showcasing ho
 ## 📦 How to Run This Project
 
 **Step 1: Clone the repository**
-```bash
+
 git clone https://github.com/VodnalaNaveen/cicd.git
 cd cicd
-bash```
+
 
  Step 2: Install the dependencies
 
